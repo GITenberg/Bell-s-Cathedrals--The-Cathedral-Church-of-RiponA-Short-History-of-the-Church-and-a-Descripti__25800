@@ -1,0 +1,27 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-RiponA-Short-History-of-the-Church-and-a-Descripti__25800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hallett, Cecil Walter Charles
+    birthdate: 1868
+    gutenberg_agent_id: '31585'
+    url: http://www.gutenberg.org/2009/agents/31585
+description: ''
+gutenberg_issued: '2008-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ripon Cathedral'
+- !lcc 'NA'
+title: 'Bell''s Cathedrals: The Cathedral Church of Ripon
+
+  A Short History of the Church and a Description of Its Fabric'
+url: http://www.gutenberg.org/ebooks/25800
