@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31585'
     url: http://www.gutenberg.org/2009/agents/31585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25800#Bell-s-Cathedrals--The-Cathedral-Church-of-RiponA-Short-History-of-the-Church-and-a-Descripti_
 gutenberg_issued: '2008-06-16'
 gutenberg_type: Text
 identifiers:
